@@ -1,0 +1,51 @@
+Project Report For "Atari Pole Position 2 CPU"
+48 Locations
+
+10A,	74LS138,	Pass, Working board
+10C,	74LS374,	Pass, Working board
+10D,	74LS174,	Pass, Working board - took many attempts to pass
+10E,	74LS283,	Pass, Working board
+10F,	74LS283,	Fail, Working board
+10H,	74LS273,	Pass, Working board
+10J,	74LS273,	Pass, Working board
+11A,	74LS174,	Pass, Working board
+11C,	74LS97,		Pass, Working board
+11E,	74LS273,	Pass, Working board
+11H,	74LS174,	Fail, Working board
+11J,	74LS273,	Pass, Working board
+12A,	74LS174,	Pass, Working board
+12B,	74LS97,		Pass, Working board
+12C,	74LS161,	Pass, Working board - game must be running
+12D,	74LS393,	Pass, Working board
+3C,	74LS373,	Pass, Working board
+3M,	74LS373,	Pass, Working board
+3N,	74LS32,		Pass, Working board
+4C,	74LS373,	Pass, Working board
+4M,	74LS373,	Pass, Working board
+5A,	74LS74,		Pass, Working board
+5D,	74LS367,	Pass, Working board
+5E,	74LS244,	Pass, Working board
+5J,	74LS367,	Pass, Working board - took a few attempts
+5K,	74LS244,	Pass, Working board
+5L,	74LS368,	Pass, Working board
+5M,	74LS158,	Pass, Working board
+5N,	74LS74,		Pass, Working board
+6A,	74LS161,	Pass, Working board
+6C,	74LS74,		Pass, Working board
+6D,	74LS367,	Pass, Working board
+6E,	74LS367,	Pass, Working board
+6F,	74LS367,	Pass, Working board
+6J,	74LS157,	Pass, Working board
+6K,	74LS157,	Pass, Working board
+6L,	74LS109,	Pass, Working board
+6M,	74LS00,		Pass, Working board
+6N,	74LS163,	Fail, Working board
+7J,	2149,		Pass, Working board
+7K,	2149,		Pass, Working board
+7K-L,	74LS138,	Pass, Working board
+7L,	74LS139,	Pass, Working board
+7N,	74LS04,		Pass, Working board
+8D,	74LS138,	Pass, Working board
+8E,	74LS259,	Fail, Working board
+8F,	74LS367,	Pass, Working board
+8M,	74LS04,		Pass, Working board
