@@ -1,0 +1,106 @@
+Project Report For "Atari Pole Position 2 VIDEO"
+102 Locations
+
+10B,	74LS74,		Fail, Working board
+10C,	74LS174,	Pass, Working board
+10D,	74LS368,	Pass, Working board
+10E,	74LS257,	Pass, Working board
+10F,	2149,		Pass, Working board
+10H,	74LS161,	Fail, Working board
+10J,	74LS161,	Fail, Working board
+10K,	74LS161,	Pass, Working board - took a couple of attempts
+10L,	74LS161,	Fail, Working board
+10M,	74LS283,	Fail, Working board
+10N,	74LS85,		Fail, Working board
+11B,	74LS107,	Pass, Working board - pins 1, 4, 12 & 13 Not connected
+11C,	N82S129,	Pass, Working board
+11D,	N82S129,	Pass, Working board - run in test mode
+11E,	N82S129,	Pass, Working board - run in test mode
+11F,	74LS174,	Pass, Working board - pin 1 unconnected, took a couple of attempts
+11H,	74LS174,	Pass, Working board
+11J,	74LS273,	Pass, Working board
+11K,	74LS139,	Pass, Working board - pin 1 not connected
+11L,	74LS373,	Pass, Working board
+11M,	74LS373,	Pass, Working board
+12B,	74LS08,		Pass, Working board
+12F,	74LS86,		Fail, Working board
+12H,	N82S137,	Pass, Working board
+13F,	74LS20,		Pass, Working board
+2A,	74LS138,	Pass, Working board
+2B,	N82S129,	Pass, Working board
+2C,	N82S129,	Pass, Working board
+2D,	N82S129,	Pass, Working board
+2E,	74LS74,		Pass, Working board
+2H,	74LS139,	Pass, Working board
+2J,	74LS10,		Pass, Working board
+2K,	74LS368,	Pass, Working board
+3B,	74LS283,	Pass, Working board
+3C,	74LS283,	Pass, Working board
+3D,	74LS283,	Pass, Working board
+3E,	6116,		Pass, Working board - took a couple of attempts
+3F,	6116,		Pass, Working board - took a couple of attempts
+3H,	74LS175,	Pass, Working board
+3J,	74LS174,	Pass, Working board
+3K,	74LS283,	Pass, Working board
+3L,	74LS283,	Pass, Working board
+3M,	74LS02,		Pass, Working board
+4B,	74LS367,	Pass, Working board
+4C,	74LS367,	Pass, Working board
+4E,	6116,		Pass, Working board - took a couple of attempts
+4F,	6116,		Pass, Working board - took a couple of attempts
+4H,	74LS157,	Pass, Working board
+4J,	74LS174,	Pass, Working board
+4K,	74LS174,	Pass, Working board
+4L,	N82S137,	Pass, Working board
+4M,	74LS298,	Pass, Working board
+4N,	74LS283,	Pass, Working board
+5B,	74LS174,	Pass, Working board
+5C,	74LS174,	Pass, Working board - took several attempts to get a result
+5D,	74LS174,	Pass, Working board
+5E,	74LS245,	Pass, Working board
+5F,	74LS245,	Pass, Working board
+5H,	74LS175,	Pass, Working board - took several attempts to get a result
+5J,	74LS273,	Pass, Working board
+5K,	N82S129,	Pass, Working board
+5M,	74LS298,	Pass, Working board
+5N,	74LS283,	Pass, Working board
+6A,	74LS04,		Pass, Working board
+6B,	74LS368,	Pass, Working board
+6C,	74LS08,		Pass, Working board
+6D,	N82S123,	Pass, Working board
+6E,	N82S123,	Pass, Working board
+6F,	74LS245,	Pass, Working board
+6H,	74LS245,	Pass, Working board
+6J,	74LS245,	Pass, Working board
+6K,	74LS245,	Pass, Working board
+6M,	74LS273,	Pass, Working board - result from TEST screen
+7C,	74LS04,		Pass, Working board
+7D,	74LS32,		Pass, Working board
+7F,	2114,		Pass, Working board
+7H,	2114,		Pass, Working board
+7J,	2114,		Pass, Working board
+7K,	2114,		Pass, Working board
+7L,	74LS273,	Pass, Working board
+7M,	74LS273,	Pass, Working board
+8B,	74LS00,		Pass, Working board
+8C,	74LS157,	Pass, Working board
+8D,	74LS158,	Pass, Working board
+8E,	74LS158,	Pass, Working board
+8F,	2114,		Pass, Working board
+8H,	2114,		Pass, Working board
+8J,	2114,		Pass, Working board
+8K,	2114,		Pass, Working board
+8L,	74LS174,	Pass, Working board
+8M,	N82S129,	Pass, Working board
+9B,	74LS20,		Pass, Working board
+9C,	74LS157,	Pass, Working board
+9D,	74LS298,	Pass, Working board
+			Fail, Failing IC - causes missing picture memory (cars and signs)
+9E,	74LS257,	Pass, Working board
+9F,	2149,		Pass, Working board
+9H,	74LS161,	Fail, Working board
+9J,	74LS161,	Fail, Working board
+9K,	74LS97,		Fail, Working board
+9L,	74LS174,	Pass, Working board
+9M,	74LS283,	Fail, Working board
+9N,	74LS85,		Fail, Working board
