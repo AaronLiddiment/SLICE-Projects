@@ -1,8 +1,14 @@
 # Starter Projects
 Atari System 1 TTL.slice
+Atari Millipede (A038874).slice
+Atari Star Wars.slice
 Konami GX400.slice
 Millipede (A038874).slice
 Star Wars.slice
+
+
+# Executables
+*.exe
 
 
 # ROM Files
