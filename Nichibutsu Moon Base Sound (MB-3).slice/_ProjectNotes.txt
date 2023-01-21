@@ -1,0 +1,5 @@
+When testing the shifter circuit (columns 1, 4 & 5) ensure that you have a game in progress or the chips will not be active.
+
+The three optional ICs (3E, 5E & 6E) only need populating is the colour monitor output is to be used. 
+
+Caution: This board has a 12v supply for the sound section. Ensure that the test clip and ground do not come into contact with any parts outside of rows A-E or damage to the Digilent unit may occur.
