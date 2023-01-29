@@ -10,6 +10,8 @@ Star Wars.slice
 # Executables
 *.exe
 
+# Slice Manual
+SliceManual*.pdf
 
 # ROM Files
 *.bin
