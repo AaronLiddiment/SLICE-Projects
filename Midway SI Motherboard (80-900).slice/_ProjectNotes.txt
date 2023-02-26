@@ -1,0 +1,3 @@
+Caution: This board has -5v and +12v supplies CPU, RAM (ICs G8-15 and H8-15) and CPU level shifter (IC C5), these volatages may also be present on ROMs depening on the jumper selection for the board. 
+
+Ensure that the test clip and ground do not come into contact with any of these parts or damage to the Digilent unit may occur.
