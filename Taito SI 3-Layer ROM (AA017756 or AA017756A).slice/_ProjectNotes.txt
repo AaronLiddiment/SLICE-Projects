@@ -1,0 +1,1 @@
+Caution: This board has 12v and -5v supplies used in IC 10 (75365 TTL to MOS Driver) and the EPROMs (ICs 31-42) when configured for 2708. Ensure that the test clip and ground do not come into contact with any of these locations or damage to the Digilent unit may occur.

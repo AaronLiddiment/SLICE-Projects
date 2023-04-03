@@ -1,0 +1,31 @@
+# Starter Projects
+Atari System 1 TTL.slice
+Atari Millipede (A038874).slice
+Atari Star Wars.slice
+Konami GX400.slice
+Millipede (A038874).slice
+Star Wars.slice
+
+
+# Executables
+*.exe
+
+# Slice Manual
+SliceManual*.pdf
+
+# ROM Files
+*.bin
+
+
+# Test Failure PNGs
+*F.png
+
+
+# Editor files
+*.sublime-project
+*.sublime-workspace
+
+
+# macOS litter
+.DS_Store
+._*

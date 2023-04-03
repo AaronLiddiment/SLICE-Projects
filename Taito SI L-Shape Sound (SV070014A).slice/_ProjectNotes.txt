@@ -1,0 +1,3 @@
+When testing the shifter circuit (ICs 2-5, 7-9, 12-14 & 17-18) ensure that you have a game in progress or the chips will not be active.
+
+Caution: This board has a 12v supply for the sound section. Ensure that the test clip and ground do not come into contact with voltages over 5v or damage to the Digilent unit may occur.
